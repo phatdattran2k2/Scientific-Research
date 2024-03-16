@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "CFU_Final3/ENV/json-20230618.jar",
+        "CFU_Final3/ENV/mysql-connector-j-8.1.0.jar"
+    ]
+}
