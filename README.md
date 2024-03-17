@@ -1,4 +1,4 @@
-# basic-level-scientific-research
+# Scientific-Research
 
 Đây là đề tài nghiên cứu khoa học về giải thuật gợi ý khi áp dụng cho giáo dục. Đề xuất các bài thi cho người dùng có cùng trình độ với nhau
 
