@@ -1,4 +1,6 @@
 # Scientific-Research
+### Tác giả
+Trần Phát Đạt (Chủ nhiệm đề tài), Đinh Tuấn Kiệt (Thành viên chính), Nguyễn Phú Cường (Thành viên chính), Nguyễn Ngọc Trâm (Thành viên chính), Văn Hoàng Hải Đăng (Thành viên)
 
 ### Tổng quan
 Đề tài được nghiên cứu nhằm tạo ra một hệ thống học tập tiếng anh dựa trên giải thuật gợi ý để giới thiệu những tài liệu, bài ôn tập, bài thi phù hợp với người dùng. Nhằm hỗ trợ người dùng học tập Tiếng Anh một cách có hiệu quả.
