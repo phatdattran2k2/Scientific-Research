@@ -17,8 +17,5 @@ Giải thuật gợi ý (Collaborative recommendation systems).
 Ví dụ: Hai người dùng A và B, đã hoàn thành hai bài thi Tiếng Anh có mã là De1 và De2, là các bài thi trung học phổ thông quốc gia. Cả hai người đều đã biết kết quả của các bài thi này và đạt được điểm số trong khoảng từ 6 đến 8 điểm cho mỗi bài thi.
 
 Dựa trên thông tin về các bài thi đã làm của người dùng B, hệ thống nhận thấy rằng B đã hoàn thành một bài thi khác có mã là De3. Dựa trên sự tương tự trong trình độ học tập của B, có khả năng cao là người dùng A cũng sẽ quan tâm đến và sẽ làm bài thi tương tự như De3, bởi vì cả hai đều có trình độ tương đối gần nhau dựa trên điểm số của họ. Do đó, hệ thống có thể đề xuất cho người dùng A bài thi De3 dựa trên sự tương đồng về trình độ học tập và sự quan tâm của người dùng B đối với bài thi De3 này.
-
+*Lưu đồ thiết kế giải thuật
 ![image](https://github.com/phatdattran2k2/Scientific-Research/assets/137701738/abe77d6b-a6c0-494d-a2b7-4aede4d85b74)
-
-Lưu đồ thiết kế giải thuật
-
